@@ -1,7 +1,7 @@
 {
     "name": "Budget Tracker",
     "short_name": "Budget Tracker",
-    "description": "A simple app that allows you to stay on top of the money you spend!"
+    "description": "A simple app that allows you to stay on top of the money you spend!",
     "icons": [
         {
             "src": "./icons/icon-72x72.png",
